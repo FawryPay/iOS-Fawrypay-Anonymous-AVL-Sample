@@ -1,0 +1,33 @@
+{
+  "originHash" : "09b46b3a515bf00a9be72dd19bc2ff04bfa9529e4e820b8cc0bade5d35dae162",
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "7595cbcf59809f9977c5f6378500de2ad73b7ddb",
+        "version" : "5.12.0"
+      }
+    },
+    {
+      "identity" : "fawrypayanonymousavlspm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FawryPay/FawryPayAnonymousAVLSPM",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d9e48cb9c7f2a4da7e0bf3a7f6de43f08e10e1af"
+      }
+    },
+    {
+      "identity" : "iqkeyboardmanager",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/hackiftekhar/IQKeyboardManager.git",
+      "state" : {
+        "revision" : "c00b1ae9fa1ad8af4465bb6ca901f6943fc98eba",
+        "version" : "6.5.16"
+      }
+    }
+  ],
+  "version" : 3
+}
